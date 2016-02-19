@@ -249,6 +249,7 @@
             "name": "HTML: Attributes",
             "scope": "text.html.basic entity.other.attribute-name.html",
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#a6e22e"
             }
         },
