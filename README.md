@@ -1,4 +1,4 @@
-# [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended)
+# [sublime-monokai-extended](https://github.com/thelarkinn/sublime-monokai-extended)
 
 > Extends Monokai from Soda with new syntax highlighting for Markdown, LESS, and Handlebars and improved syntax highlighting for RegEx, HTML, LESS, CSS, JavaScript and more.
 
@@ -9,20 +9,12 @@ Companion to [sublime-markdown-extended](https://github.com/jonschlinkert/sublim
 ## Getting Started
 
 ### 1. Installation
-
-#### Package Control
-
-If you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed in Sublime Text:
-
-* Select "Install Package" from the Command Palette: <kbd>Ctrl+Shift+P</kbd> on Windows and Linux or <kbd>⇧⌘P</kbd> on OS X)
-* Search for "**Monokai Extended**" and click <kbd>enter</kbd>.
-
 #### Manual Installation
 
 Go to `Preferences -> Browse Packages`, and then either download and unzip this plugin into that directory, or:
 
 ``` bash
-git clone https://github.com/jonschlinkert/sublime-monokai-extended.git "sublime-monokai-extended"
+git clone https://github.com/thelarkinn/sublime-monokai-extended.git
 ```
 
 ### 2. Switch Themes
