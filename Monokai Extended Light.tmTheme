@@ -405,6 +405,8 @@
 			<string>text.html.basic entity.other.attribute-name.html</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#679c00</string>
 			</dict>
